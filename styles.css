@@ -1,0 +1,55 @@
+/**
+ * styles.css
+ */
+
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    line-height: 1.6;
+    color: #3B2A2E;
+    background-color: #F5F4F0;
+}
+
+header {
+    background: #C59D8F;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.5em;
+    margin: 0;
+}
+
+nav {
+    margin: 20px 0;
+}
+
+nav a {
+    color: #3B2A2E;
+    text-decoration: none;
+    padding: 10px 15px;
+}
+
+nav a:hover {
+    background: #E8C8B7;
+}
+
+/* Main Content Styles */
+main {
+    padding: 20px;
+}
+
+.section-title {
+    font-size: 2em;
+    color: #C59D8F;
+    margin-bottom: 10px;
+}
+
+.footer {
+    background: #C59D8F;
+    color: white;
+    text-align: center;
+    padding: 15px 0;
+}
